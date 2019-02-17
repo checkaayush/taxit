@@ -11,6 +11,6 @@ Easily gather documents for tax exemption - cab bills, rent receipts, etc.
 
 1. Clone repository locally and change into it.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Add your details to config.py.
+3. Add your details to `taxit/config.py`.
 4. Run `python taxit/rent_receipts.py`.
 5. Sit back and relax! An instance of Google Chrome will open up and the download process should begin.

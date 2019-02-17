@@ -1,2 +1,2 @@
-selenium
-python-dateutil
+selenium==3.141.0
+python-dateutil==2.8.0
